@@ -10,14 +10,15 @@ A base de dados utilizada neste estudo é **fictícia**, proveniente do curso *G
 ## 📂 Estrutura do Repositório
 O projeto foi organizado para refletir o fluxo de trabalho de um analista de dados:
 
-- **`/base`**: Contém a base original (Raw Data) utilizada como ponto de partida para o estudo.
 - **`/analises`**: Ficheiros consolidados com o desenvolvimento técnico:
     - **Análise 1**: **Análise Exploratória** inicial, frequências e panorama geral dos dados.
     - **Análise 2**: Cruzamentos bidimensionais e associações entre variáveis.
     - **Análise 3**: Análise de IV (Information Value) e Weight of Evidence (WoE), focada no poder preditivo e na força de cada variável.
+    - **Base**: Contém a base original (Raw Data) utilizada como ponto de partida para o estudo.
     - **Metadados**: Dicionário de variáveis para interpretação técnica.
-- **`/imagens`**: Gráficos gerados para suporte visual aos insights.
 - **`/dados`**: Ficheiro Excel original com todas as fórmulas e Tabelas Dinâmicas preservadas.
+- **`/imagens`**: Gráficos gerados para suporte visual aos insights.
+
 
 ## 💡 Insights de Destaque
 Através dos cálculos de **IV (Information Value)** presentes na Análise 3, identificamos os preditores mais fortes para a saída de colaboradores:
