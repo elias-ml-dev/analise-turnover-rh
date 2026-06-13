@@ -28,5 +28,5 @@ Através dos cálculos de **IV (Information Value)** presentes na Análise 3, id
    
 ## 🎯 Conclusão
 O projeto demonstrou que a retenção de talentos não depende de um único fator, mas de um conjunto onde o equilíbrio entre vida pessoal e trabalho (horas extras) é o pilar principal. Este estudo serve de base para a criação de modelos preditivos mais complexos no futuro.
----
+
 *Projeto desenvolvido por **Elias Santos Silva** - Estudante de Inteligência Artificial e Machine Learning.*
